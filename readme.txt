@@ -1,5 +1,5 @@
 Simple internet radio which implemented with simple connection protocol and multicast transmission.
-Protocok use next messages:
+Protocol use next messages:
   Hello:
     uint8_t commandType = 0;
     uint16_t reserved = 0;
